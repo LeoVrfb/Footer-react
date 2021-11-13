@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/lNettoyeur/Footer-react/static/js/main.1065c8da.chunk.js",
+    "main.js.map": "/lNettoyeur/Footer-react/static/js/main.1065c8da.chunk.js.map",
+    "runtime-main.js": "/lNettoyeur/Footer-react/static/js/runtime-main.4567c342.js",
+    "runtime-main.js.map": "/lNettoyeur/Footer-react/static/js/runtime-main.4567c342.js.map",
+    "static/js/2.32250c60.chunk.js": "/lNettoyeur/Footer-react/static/js/2.32250c60.chunk.js",
+    "static/js/2.32250c60.chunk.js.map": "/lNettoyeur/Footer-react/static/js/2.32250c60.chunk.js.map",
+    "index.html": "/lNettoyeur/Footer-react/index.html",
+    "static/js/2.32250c60.chunk.js.LICENSE.txt": "/lNettoyeur/Footer-react/static/js/2.32250c60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4567c342.js",
+    "static/js/2.32250c60.chunk.js",
+    "static/js/main.1065c8da.chunk.js"
+  ]
+}
